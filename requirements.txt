@@ -1,0 +1,12 @@
+Django
+numpy
+pandas
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+torch
+torchvision 
+torchaudio
+pytorch-forecasting
+lightning
